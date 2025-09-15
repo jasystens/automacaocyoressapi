@@ -1,0 +1,21 @@
+
+ {
+  "cria_usuario":{
+                "nome": "cida",
+                "email": "cida@terra.com.br",
+                "password": "cici",
+                "administrador": "true"
+  },
+  "atlz_user":{
+                "nome": "lurdes",
+                "email": "lurdes@qa.com.br",
+                "password": "lur",
+                "administrador": "true"
+                
+                
+  }
+}
+
+            
+
+

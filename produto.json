@@ -1,0 +1,17 @@
+{
+    "cria_produto": {
+    "nome": "curso cypress",
+    "preco": 99,
+    "descricao": "api cypress2",
+    "quantidade": 10
+    },
+
+
+
+    "atualiza_produto" :{
+     "nome": "curso cypress api",
+    "preco": 300,
+    "descricao": "api cypress3",
+    "quantidade": 11
+    }
+}
